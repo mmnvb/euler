@@ -11,6 +11,7 @@
     <li>Avoid using external libs/modules</li>
     <li>Name your solution file adequately <i>(recommended: your_nickname.file)</i></li>
     <li>Avoid overwriting other's solution files</li>
+    <li>❗️ Share YOUR code ONLY</li>
   </ul></p>
 <!--  
 <h3>🔬Contribution Guidelines</h3>
