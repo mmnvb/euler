@@ -2,6 +2,7 @@
 
 
 <p align='center'><i></u>This repository contains solutions to various Project Euler problems. Each problem can be solved using different programming languages, showcasing the diversity and versatility of our team.</i></p>
+<a href="https://github.com/nayuki/Project-Euler-solutions/blob/master/Answers.txt"><p align='center'>Check</p></a>
 <hr>
 <!-- <h3>📰Rules</h3> -->
 <p>There are 851 tasks in total at the moment. They are distributed in folders. In each folder (1-9) there are 100 tasks, 
@@ -11,7 +12,7 @@
     <li>Avoid using external libs/modules</li>
     <li>Name your solution file adequately <i>(recommended: your_nickname.file)</i></li>
     <li>Avoid overwriting other's solution files</li>
-    <li>❗️ Share YOUR code ONLY</li>
+    <li>Share YOUR code ONLY</li>
   </ul></p>
 <!--  
 <h3>🔬Contribution Guidelines</h3>
@@ -23,5 +24,6 @@
     <li>Create a Pull Request with a brief description of your solution.</li>
 </ol>
 -->
+<hr>
 <p align='center'><b>Let's collaborate and explore the world of algorithms and problem-solving together!</b></p>
 <p align='center'>⭐Thanks to <a href='https://projecteuler.net/'>Project Euler</a></p>
