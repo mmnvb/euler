@@ -24,3 +24,4 @@
 </ol>
 -->
 <p align='center'><b>Let's collaborate and explore the world of algorithms and problem-solving together!</b></p>
+<p align='center'>⭐Thanks to <a href='https://projecteuler.net/'>Project Euler</a></p>
