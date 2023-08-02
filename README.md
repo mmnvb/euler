@@ -5,7 +5,13 @@
 <hr>
 <!-- <h3>📰Rules</h3> -->
 <p>There are 851 tasks in total at the moment. They are distributed in folders. In each folder (1-9) there are 100 tasks, 
-  respectively. You may use any programming language to solve them. Avoid using external libs and modules.</p>
+  respectively. 
+  <ul>
+    <li>You may use any programming language to solve them</li>
+    <li>Avoid using external libs/modules</li>
+    <li>Name your solution file adequately <i>(recommended: your_nickname.file)</i></li>
+    <li>Avoid overwriting other's solution files</li>
+  </ul></p>
 <!--  
 <h3>🔬Contribution Guidelines</h3>
 <p>We encourage contributions from all team members. Feel free to submit your solutions in any programming language you are comfortable with. To contribute:</p>
