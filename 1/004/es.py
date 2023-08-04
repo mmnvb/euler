@@ -7,3 +7,4 @@ for i in range(600,1000):
             s = i, "*" ,g ,"=" ,result
             e.append(s)
 print(max(e))
+#
