@@ -1,7 +1,7 @@
 // At first I tried to find all the polindroms witihin the range
 // 100*100 ... 999*999 and then try to evaluate whether they can be obtained by the factor of 3-digit numbers.
-// I came with the solution that was equal to the correct answer, but I found my solution "lucky" and suitable for only those conditions. So, I rewrited
-// boring, slow but the actually working code. 
+// I came up with the solution that was equal to the correct answer, but I found my solution "lucky" and suitable for only those conditions. So, I rewrited it,
+// so we have boring and slow but the actually working code. 
 
 fn is_polidrome(num: i32) -> bool{
     let str_num = num.to_string();
