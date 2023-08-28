@@ -34,12 +34,12 @@ fn main(){
     let mut arr:Vec<i32> = Vec::new();
     let mut dict:HashMap<String, Vec<i32>> = HashMap::new();
 
-    // step 1 - Find all primes from 1000 - 9999    
+    // step 1 - Find all the primes from 1000 - 9999    
     for i in 1000..10000{
         if is_prime(i){arr.push(i)};
     }
 
-    // step 2 - Sort every element. Sorted element : Vec<Elements>
+    // step 2 - Sort every element. Place it into Hashmap -> Sorted element : Vec<Elements>
     for num in arr.iter(){
         let temp_vec = dict.entry(num.to_string().sort()).or_insert(vec![0]);
 
@@ -50,8 +50,8 @@ fn main(){
         temp_vec.push(*num);
     }
 
-    // step 3 - Find the ariphmetic sequence. 
-    // The tricky thing here is that actually there are 8 numbers that are prime and permutation of each other in the given example
+    // step 3 - Find the arithmetic progression. 
+    // The tricky thing here is that, there are 8 numbers that are prime and permutation of each other (in the given example)
     
     // govnokod here :)
     for i in dict.iter(){
