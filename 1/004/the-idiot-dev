@@ -1,0 +1,18 @@
+let start = 100
+let end = 999
+let max = 0
+for(let i = end; i >= start; i--) {
+    for(let j = i; j >= start; j--) {
+        let a = i * j
+        if(isPalindrome(a) && max < a) {
+            max = a
+        }
+    }
+}
+
+function isPalindrome(n) {
+    let str = n.toString()
+    return str === str.split('').reverse().join('')
+}
+
+console.log(max)
